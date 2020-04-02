@@ -1,0 +1,33 @@
+{
+  "name": "@litt1e-p/graphi",
+  "version": "0.0.1",
+  "description": "a high performance d3.js graph tree data visualization",
+  "config": {
+    "libName": "graphi"
+  },
+  "keywords": [
+    "graph",
+    "diagram",
+    "tree",
+    "d3",
+    "visualization",
+    "treant"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/graphi.umd.js",
+  "module": "dist/graphi.esm.js",
+  "unpkg": "dist/graphi.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/graphi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/graphi/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/graphi#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "d3": "^5.15.1"
+  }
+}
