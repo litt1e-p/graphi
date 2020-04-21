@@ -68,7 +68,7 @@ sample data for v-model:
 for more detail
 
 ```js
-<graphi v-model="your data to visualize" :conf="{ width: 1000, height: 500, zoomToFit: true, bubbleRadius: 60, arrowOffset: 2}"/>
+<graphi v-model="your data to visualize" :conf="{ width: 1000, height: 500, zoomToFit: true, bubbleRadius: 60, arrowOffset: 2, fitScale: 0.6, relations: {'childs': 'sons', ...}}"/>
 ```
 
 
