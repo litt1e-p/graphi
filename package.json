@@ -1,6 +1,6 @@
 {
   "name": "@litt1e-p/graphi",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "a high performance d3.js graph tree data visualization",
   "config": {
     "libName": "graphi"
