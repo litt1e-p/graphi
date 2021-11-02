@@ -1,6 +1,6 @@
 # Graphi
 
-a high performance [d3.js](https://d3js.org/) graph tree data visualization component for vue
+a high performance [d3.js](https://d3js.org/) graph tree data visualization component for vue2.x
 
 #### Installation
 
